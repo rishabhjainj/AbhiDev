@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/analysis_background"
     android:id="@+id/puzzle4"
-    tools:context="com.wireout.yantra.com.wireout.GameBrainBooster.Levels.Level9Activity">
+    tools:context="com.abhidev.yantra.com.wireout.GameBrainBooster.Levels.Level9Activity">
 
 
     <TextView
@@ -20,7 +20,7 @@
         android:textColor="#000"
         android:text="There are 2 mothers 2 daughters\nand grandma with granddaughter.\nCount all the people." />
 
-    <com.wireout.GameBrainBooster.CustomView
+    <com.abhidev.GameBrainBooster.CustomView
         android:id="@+id/custom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

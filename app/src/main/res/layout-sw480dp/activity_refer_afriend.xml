@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_height="match_parent"
     android:background="@drawable/background"
-    tools:context="com.wireout.HelpDesk.ReferAFriend">
+    tools:context="com.abhidev.HelpDesk.ReferAFriend">
 
 
     <com.google.android.material.appbar.AppBarLayout

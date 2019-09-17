@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/analysis_background"
     android:id="@+id/puzzle3"
-    tools:context="com.wireout.yantra.com.wireout.GameBrainBooster.Levels.Level11Activity">
+    tools:context="com.abhidev.yantra.com.wireout.GameBrainBooster.Levels.Level11Activity">
 
     <TextView
         android:id="@+id/textView2"
@@ -19,7 +19,7 @@
         android:textColor="#000"
         android:text="How much tons of soil is present in a 2 meters deep and 2 meters wide hole in the ground?" />
 
-    <com.wireout.GameBrainBooster.CustomView
+    <com.abhidev.GameBrainBooster.CustomView
         android:id="@+id/custom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

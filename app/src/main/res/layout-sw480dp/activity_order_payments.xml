@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/background"
-    tools:context="com.wireout.HelpDesk.OrderPaymentsActivity">
+    tools:context="com.abhidev.HelpDesk.OrderPaymentsActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"

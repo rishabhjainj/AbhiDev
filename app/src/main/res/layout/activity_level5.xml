@@ -5,9 +5,9 @@
     android:layout_height="match_parent"
     android:background="@drawable/analysis_background"
     android:id="@+id/bb_level5"
-    tools:context="com.wireout.yantra.com.wireout.GameBrainBooster.Levels.Level5Activity">
+    tools:context="com.abhidev.yantra.com.wireout.GameBrainBooster.Levels.Level5Activity">
 
-    <com.wireout.GameBrainBooster.CustomView
+    <com.abhidev.GameBrainBooster.CustomView
         android:id="@+id/custom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     android:background="@drawable/analysis_background"
     android:id="@+id/puzzle2"
-    tools:context="com.wireout.yantra.com.wireout.GameBrainBooster.Levels.Level12Activity">
+    tools:context="com.abhidev.yantra.com.wireout.GameBrainBooster.Levels.Level12Activity">
 
 
 
-    <com.wireout.GameBrainBooster.CustomView
+    <com.abhidev.GameBrainBooster.CustomView
         android:id="@+id/custom"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

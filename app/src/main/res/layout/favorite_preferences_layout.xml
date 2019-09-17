@@ -105,7 +105,7 @@
                         android:textColor="@color/darkblue"
                         android:textSize="@dimen/textSize" />
 //change to multiselect
-                    <com.wireout.common.MultiSelectSpinner
+                    <com.abhidev.common.MultiSelectSpinner
                         android:id="@+id/spinner1"
                         android:padding="10dp"
                         android:layout_width="fill_parent"
@@ -122,7 +122,7 @@
                         android:textColor="@color/darkblue"
                         android:textSize="@dimen/textSize" />
 
-                    <com.wireout.common.MultiSelectSpinner
+                    <com.abhidev.common.MultiSelectSpinner
                         android:id="@+id/spinner"
                         android:layout_width="fill_parent"
                         android:padding="10dp"
@@ -136,7 +136,7 @@
                         android:textColor="@color/darkblue"
                         android:textSize="@dimen/textSize" />
 
-                    <com.wireout.common.MultiSelectSpinner
+                    <com.abhidev.common.MultiSelectSpinner
                         android:id="@+id/spinner3"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
@@ -151,7 +151,7 @@
                         android:textColor="@color/darkblue"
                         android:textSize="@dimen/textSize" />
 
-                    <com.wireout.common.MultiSelectSpinner
+                    <com.abhidev.common.MultiSelectSpinner
                         android:id="@+id/spinner2"
                         android:padding="10dp"
                         android:layout_width="fill_parent"

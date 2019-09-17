@@ -82,7 +82,7 @@
                     android:background="@drawable/rounded_white_black_border"
                     android:orientation="horizontal"
                     android:layout_height="wrap_content">
-                    <com.wireout.common.MultiSelectSpinner
+                    <com.abhidev.common.MultiSelectSpinner
                         android:layout_width="match_parent"
                         android:id="@+id/spinner"
                         android:paddingTop="0dp"
@@ -92,7 +92,7 @@
                         android:paddingBottom="0dp"
                         android:layout_marginTop="0dp"
                         android:layout_height="wrap_content">
-                    </com.wireout.common.MultiSelectSpinner>
+                    </com.abhidev.common.MultiSelectSpinner>
                     <ImageView
                         android:layout_width="20dp"
                         android:visibility="gone"

@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/lightback"
-    tools:context="com.wireout.yantra.com.wireout.Fragments.AptitudeFragment">
+    tools:context="com.abhidev.yantra.com.wireout.Fragments.AptitudeFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <androidx.coordinatorlayout.widget.CoordinatorLayout

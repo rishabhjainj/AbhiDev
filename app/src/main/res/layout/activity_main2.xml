@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#FF90BAA2"
     android:id="@+id/bbmain"
-    tools:context="com.wireout.yantra.com.wireout.GameBrainBooster.MainActivity">
+    tools:context="com.abhidev.yantra.com.wireout.GameBrainBooster.MainActivity">
 
     <ImageView
         android:id="@+id/imageView8"

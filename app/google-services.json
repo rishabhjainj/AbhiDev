@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:880207382578:android:bff7cd00e1a7e4da",
         "android_client_info": {
-          "package_name": "com.wireout"
+          "package_name": "com.abhidev"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "880207382578-lniol6e451idvm2lfop2lunna7qib86u.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.wireout",
+            "package_name": "com.abhidev",
             "certificate_hash": "9a39223b504ff6645d9993583082cd06d29d82e3"
           }
         },
