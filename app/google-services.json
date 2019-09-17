@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880207382578",
+    "firebase_url": "https://yantra-55088.firebaseio.com",
+    "project_id": "yantra-55088",
+    "storage_bucket": "yantra-55088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880207382578:android:bff7cd00e1a7e4da",
+        "android_client_info": {
+          "package_name": "com.wireout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880207382578-lniol6e451idvm2lfop2lunna7qib86u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wireout",
+            "certificate_hash": "9a39223b504ff6645d9993583082cd06d29d82e3"
+          }
+        },
+        {
+          "client_id": "880207382578-feji1ak2sii258d7f2389teiuc5dbfqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjTSHi686AzvXIPCJHEVAPI6IAb20bSVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880207382578-9ekefk15gc7rehdsn8um45lmt1p5epf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
